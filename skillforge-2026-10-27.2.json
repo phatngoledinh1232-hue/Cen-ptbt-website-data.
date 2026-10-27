@@ -1,0 +1,1383 @@
+{
+ "v": 3,
+ "skills": [
+  {
+   "id": "yx1rler4",
+   "name": "Đá bóng",
+   "icon": "⚽",
+   "color": "#1f9d63",
+   "desc": "",
+   "archived": false,
+   "metrics": [
+    {
+     "id": "1ohv6b8y",
+     "name": "Rê bóng",
+     "scale": "10",
+     "cur": 8,
+     "target": 10,
+     "w": 3,
+     "date": "2026-10-26",
+     "note": "",
+     "hist": [
+      {
+       "date": "2026-10-26",
+       "from": 0,
+       "to": 10,
+       "note": ""
+      },
+      {
+       "date": "2026-10-26",
+       "from": 10,
+       "to": 8,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "id": "jsi8wx9w",
+     "name": "Sút bóng",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "qdvr5ry2",
+     "name": "Chuyền bóng",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "jbex85un",
+     "name": "Khống chế bóng",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "bjyud0tu",
+     "name": "Đánh đầu",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "dctar4z3",
+     "name": "Nhảy cao",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "ngk7xidp",
+     "name": "Tốc độ chạy",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "x786h0f7",
+     "name": "Thể lực",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "c7zjlahu",
+     "name": "Phản xạ",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "jjmurnm9",
+     "name": "Quan sát và đọc trận đấu",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "1ijc47h0",
+     "name": "Phối hợp đồng đội",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "ck7ihegk",
+     "name": "Kiểm soát bóng trong không gian hẹp",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    }
+   ]
+  },
+  {
+   "id": "bwf657oo",
+   "name": "Ngoại ngữ",
+   "icon": "🗣️",
+   "color": "#5b3fd6",
+   "desc": "",
+   "archived": false,
+   "metrics": [
+    {
+     "id": "42b1nhpn",
+     "name": "Nghe",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "bl51eck3",
+     "name": "Nói",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "4ck75aj5",
+     "name": "Đọc",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "15f82yg1",
+     "name": "Viết",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "fb4vrek4",
+     "name": "Phát âm",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "2n72chda",
+     "name": "Từ vựng",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "wfnla378",
+     "name": "Ngữ pháp",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "t10hl7zj",
+     "name": "Phản xạ giao tiếp",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "c0tcg98w",
+     "name": "Khả năng ghi nhớ",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "7zprhp9x",
+     "name": "Dùng ngôn ngữ trong tình huống thực tế",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    }
+   ]
+  },
+  {
+   "id": "urttlq5z",
+   "name": "Sức khỏe",
+   "icon": "💧",
+   "color": "#1d8fb5",
+   "desc": "",
+   "archived": false,
+   "metrics": [
+    {
+     "id": "f5zxshep",
+     "name": "Chất lượng giấc ngủ",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "v25tmwdt",
+     "name": "Ăn uống cân bằng",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "0kkpx03j",
+     "name": "Sức bền tim phổi",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "7smqevz5",
+     "name": "Vận động linh hoạt",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "fqo8lfme",
+     "name": "Tư thế đúng",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "b9nze2x2",
+     "name": "Thói quen uống nước",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "0d0z5pot",
+     "name": "Duy trì lịch sinh hoạt",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "nmy1wkk4",
+     "name": "Kiến thức chăm sóc cơ bản",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "bcxtiicu",
+     "name": "Phục hồi sau vận động",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    }
+   ]
+  },
+  {
+   "id": "w77kpglw",
+   "name": "Hát",
+   "icon": "🎤",
+   "color": "#c0388f",
+   "desc": "",
+   "archived": false,
+   "metrics": [
+    {
+     "id": "cr93n4tx",
+     "name": "Cao độ",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "ogc7vxyq",
+     "name": "Giữ nhịp",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "9lorfssq",
+     "name": "Kiểm soát hơi thở",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "8gxmxewg",
+     "name": "Phát âm",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "5ogmbolr",
+     "name": "Độ rõ của giọng",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "xr9zipp4",
+     "name": "Giữ nốt",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "mbfpdczk",
+     "name": "Cảm xúc khi thể hiện",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "3mxj998c",
+     "name": "Chuyển giọng",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "6loq3khi",
+     "name": "Kiểm soát âm lượng",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "8806kcms",
+     "name": "Khả năng biểu diễn",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    }
+   ]
+  },
+  {
+   "id": "4f6egmpm",
+   "name": "Sức mạnh cánh tay",
+   "icon": "💪",
+   "color": "#d9692b",
+   "desc": "",
+   "archived": false,
+   "metrics": [
+    {
+     "id": "7iaj567n",
+     "name": "Sức mạnh cầm nắm",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "n90qf0wc",
+     "name": "Cẳng tay",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "ow0sgth3",
+     "name": "Bắp tay",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "tdkqn27p",
+     "name": "Cơ tam đầu",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "r1a34reb",
+     "name": "Vai",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "odlp01xy",
+     "name": "Ổn định cổ tay",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "4xyisbos",
+     "name": "Phối hợp tay",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "dob6t452",
+     "name": "Độ linh hoạt",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "y07meow9",
+     "name": "Sức bền cơ",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    },
+    {
+     "id": "n8j179wh",
+     "name": "Kỹ thuật động tác",
+     "scale": "10",
+     "cur": 0,
+     "target": 10,
+     "w": 3,
+     "date": "",
+     "note": "",
+     "hist": []
+    }
+   ]
+  },
+  {
+   "id": "90u23xat",
+   "archived": false,
+   "metrics": [
+    {
+     "id": "0q7p1p88",
+     "name": "Ngón tay",
+     "scale": "10",
+     "cur": 10,
+     "target": 10,
+     "w": 3,
+     "date": "2026-10-26",
+     "note": "",
+     "hist": [
+      {
+       "date": "2026-10-26",
+       "from": 0,
+       "to": 10,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "id": "cofx9v2x",
+     "name": "Cẳng tay",
+     "scale": "10",
+     "cur": 8,
+     "target": 10,
+     "w": 3,
+     "date": "2026-10-26",
+     "note": "",
+     "hist": [
+      {
+       "date": "2026-10-26",
+       "from": 0,
+       "to": 8,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "id": "qawoggk4",
+     "name": "Bắp tay",
+     "scale": "10",
+     "cur": 8,
+     "target": 10,
+     "w": 3,
+     "date": "2026-10-26",
+     "note": "",
+     "hist": [
+      {
+       "date": "2026-10-26",
+       "from": 0,
+       "to": 8,
+       "note": ""
+      }
+     ]
+    }
+   ],
+   "name": "Sức khoẻ cánh tay",
+   "icon": "💪",
+   "color": "#5b3fd6",
+   "desc": ""
+  }
+ ],
+ "tasks": [],
+ "days": {},
+ "cards": [
+  {
+   "id": "ndkgi4vy",
+   "name": "Đá bóng",
+   "sid": "yx1rler4",
+   "tpl": 0,
+   "snap": [
+    {
+     "id": "jsi8wx9w",
+     "n": "Sút bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "qdvr5ry2",
+     "n": "Chuyền bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jbex85un",
+     "n": "Khống chế bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "bjyud0tu",
+     "n": "Đánh đầu",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "dctar4z3",
+     "n": "Nhảy cao",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "ngk7xidp",
+     "n": "Tốc độ chạy",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "x786h0f7",
+     "n": "Thể lực",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "c7zjlahu",
+     "n": "Phản xạ",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jjmurnm9",
+     "n": "Quan sát và đọc trận đấu",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "1ijc47h0",
+     "n": "Phối hợp đồng đội",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "ck7ihegk",
+     "n": "Kiểm soát bóng trong không gian hẹp",
+     "p": 0,
+     "x": "0/10"
+    }
+   ],
+   "note": "",
+   "pin": 0,
+   "ver": [],
+   "cr": "2026-10-25",
+   "upd": "2026-10-25"
+  },
+  {
+   "id": "a5uhzxry",
+   "name": "Jdj",
+   "sid": "",
+   "tpl": 2,
+   "snap": [
+    {
+     "id": "3q69k80s",
+     "n": "Sáng tạo",
+     "p": 70,
+     "x": "7/10"
+    },
+    {
+     "id": "7izqe9ia",
+     "n": "Kỷ luật",
+     "p": 60,
+     "x": "6/10"
+    }
+   ],
+   "note": "",
+   "pin": 0,
+   "ver": [],
+   "cr": "2026-10-26",
+   "upd": "2026-10-26"
+  },
+  {
+   "id": "hxpm1pd7",
+   "name": "Đá ",
+   "sid": "yx1rler4",
+   "tpl": 62,
+   "snap": [
+    {
+     "id": "1ohv6b8y",
+     "n": "Rê bóng",
+     "p": 80,
+     "x": "8/10"
+    },
+    {
+     "id": "jsi8wx9w",
+     "n": "Sút bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "qdvr5ry2",
+     "n": "Chuyền bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jbex85un",
+     "n": "Khống chế bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "bjyud0tu",
+     "n": "Đánh đầu",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "dctar4z3",
+     "n": "Nhảy cao",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "ngk7xidp",
+     "n": "Tốc độ chạy",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "x786h0f7",
+     "n": "Thể lực",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "c7zjlahu",
+     "n": "Phản xạ",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jjmurnm9",
+     "n": "Quan sát và đọc trận đấu",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "1ijc47h0",
+     "n": "Phối hợp đồng đội",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "ck7ihegk",
+     "n": "Kiểm soát bóng trong không gian hẹp",
+     "p": 0,
+     "x": "0/10"
+    }
+   ],
+   "note": "",
+   "pin": 0,
+   "ver": [
+    {
+     "at": "2026-10-26",
+     "snap": [
+      {
+       "id": "1ohv6b8y",
+       "n": "Rê bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "jsi8wx9w",
+       "n": "Sút bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "qdvr5ry2",
+       "n": "Chuyền bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "jbex85un",
+       "n": "Khống chế bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "bjyud0tu",
+       "n": "Đánh đầu",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "dctar4z3",
+       "n": "Nhảy cao",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "ngk7xidp",
+       "n": "Tốc độ chạy",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "x786h0f7",
+       "n": "Thể lực",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "c7zjlahu",
+       "n": "Phản xạ",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "jjmurnm9",
+       "n": "Quan sát và đọc trận đấu",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "1ijc47h0",
+       "n": "Phối hợp đồng đội",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "ck7ihegk",
+       "n": "Kiểm soát bóng trong không gian hẹp",
+       "p": 0,
+       "x": "0/10"
+      }
+     ],
+     "name": "Đá bóng"
+    },
+    {
+     "at": "2026-10-26",
+     "snap": [
+      {
+       "id": "1ohv6b8y",
+       "n": "Rê bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "jsi8wx9w",
+       "n": "Sút bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "qdvr5ry2",
+       "n": "Chuyền bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "jbex85un",
+       "n": "Khống chế bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "bjyud0tu",
+       "n": "Đánh đầu",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "dctar4z3",
+       "n": "Nhảy cao",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "ngk7xidp",
+       "n": "Tốc độ chạy",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "x786h0f7",
+       "n": "Thể lực",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "c7zjlahu",
+       "n": "Phản xạ",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "jjmurnm9",
+       "n": "Quan sát và đọc trận đấu",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "1ijc47h0",
+       "n": "Phối hợp đồng đội",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "ck7ihegk",
+       "n": "Kiểm soát bóng trong không gian hẹp",
+       "p": 0,
+       "x": "0/10"
+      }
+     ],
+     "name": "Đá "
+    },
+    {
+     "at": "2026-10-26",
+     "snap": [
+      {
+       "id": "1ohv6b8y",
+       "n": "Rê bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "jsi8wx9w",
+       "n": "Sút bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "qdvr5ry2",
+       "n": "Chuyền bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "jbex85un",
+       "n": "Khống chế bóng",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "bjyud0tu",
+       "n": "Đánh đầu",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "dctar4z3",
+       "n": "Nhảy cao",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "ngk7xidp",
+       "n": "Tốc độ chạy",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "x786h0f7",
+       "n": "Thể lực",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "c7zjlahu",
+       "n": "Phản xạ",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "jjmurnm9",
+       "n": "Quan sát và đọc trận đấu",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "1ijc47h0",
+       "n": "Phối hợp đồng đội",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "ck7ihegk",
+       "n": "Kiểm soát bóng trong không gian hẹp",
+       "p": 0,
+       "x": "0/10"
+      }
+     ]
+    }
+   ],
+   "cr": "2026-10-26",
+   "upd": "2026-10-26",
+   "hue": ""
+  },
+  {
+   "id": "bqtlu2mr",
+   "name": "Đá  (bản sao)",
+   "sid": "yx1rler4",
+   "tpl": 62,
+   "snap": [
+    {
+     "id": "1ohv6b8y",
+     "n": "Rê bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jsi8wx9w",
+     "n": "Sút bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "qdvr5ry2",
+     "n": "Chuyền bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jbex85un",
+     "n": "Khống chế bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "bjyud0tu",
+     "n": "Đánh đầu",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "dctar4z3",
+     "n": "Nhảy cao",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "ngk7xidp",
+     "n": "Tốc độ chạy",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "x786h0f7",
+     "n": "Thể lực",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "c7zjlahu",
+     "n": "Phản xạ",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jjmurnm9",
+     "n": "Quan sát và đọc trận đấu",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "1ijc47h0",
+     "n": "Phối hợp đồng đội",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "ck7ihegk",
+     "n": "Kiểm soát bóng trong không gian hẹp",
+     "p": 0,
+     "x": "0/10"
+    }
+   ],
+   "note": "",
+   "pin": 0,
+   "ver": [],
+   "cr": "2026-10-26",
+   "upd": "2026-10-26",
+   "hue": ""
+  },
+  {
+   "id": "slw6mua0",
+   "name": "Sức khoẻ cánh tay",
+   "sid": "90u23xat",
+   "tpl": 10,
+   "snap": [
+    {
+     "id": "0q7p1p88",
+     "n": "Ngón tay",
+     "p": 100,
+     "x": "10/10"
+    },
+    {
+     "id": "cofx9v2x",
+     "n": "Cẳng tay",
+     "p": 80,
+     "x": "8/10"
+    },
+    {
+     "id": "qawoggk4",
+     "n": "Bắp tay",
+     "p": 80,
+     "x": "8/10"
+    }
+   ],
+   "note": "",
+   "pin": 0,
+   "ver": [
+    {
+     "at": "2026-10-26",
+     "snap": [
+      {
+       "id": "0q7p1p88",
+       "n": "Ngón tay",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "cofx9v2x",
+       "n": "Cẳng tay",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "qawoggk4",
+       "n": "Bắp tay",
+       "p": 0,
+       "x": "0/10"
+      }
+     ]
+    },
+    {
+     "at": "2026-10-26",
+     "snap": [
+      {
+       "id": "0q7p1p88",
+       "n": "Ngón tay",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "cofx9v2x",
+       "n": "Cẳng tay",
+       "p": 0,
+       "x": "0/10"
+      },
+      {
+       "id": "qawoggk4",
+       "n": "Bắp tay",
+       "p": 0,
+       "x": "0/10"
+      }
+     ]
+    }
+   ],
+   "cr": "2026-10-26",
+   "upd": "2026-10-26"
+  },
+  {
+   "id": "nfkxfgh6",
+   "name": "Đá  (bản sao)",
+   "sid": "yx1rler4",
+   "tpl": 62,
+   "snap": [
+    {
+     "id": "1ohv6b8y",
+     "n": "Rê bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jsi8wx9w",
+     "n": "Sút bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "qdvr5ry2",
+     "n": "Chuyền bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jbex85un",
+     "n": "Khống chế bóng",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "bjyud0tu",
+     "n": "Đánh đầu",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "dctar4z3",
+     "n": "Nhảy cao",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "ngk7xidp",
+     "n": "Tốc độ chạy",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "x786h0f7",
+     "n": "Thể lực",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "c7zjlahu",
+     "n": "Phản xạ",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "jjmurnm9",
+     "n": "Quan sát và đọc trận đấu",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "1ijc47h0",
+     "n": "Phối hợp đồng đội",
+     "p": 0,
+     "x": "0/10"
+    },
+    {
+     "id": "ck7ihegk",
+     "n": "Kiểm soát bóng trong không gian hẹp",
+     "p": 0,
+     "x": "0/10"
+    }
+   ],
+   "note": "",
+   "pin": 0,
+   "ver": [],
+   "cr": "2026-10-26",
+   "upd": "2026-10-26",
+   "hue": ""
+  }
+ ],
+ "assess": [],
+ "xp": [],
+ "trash": [],
+ "goals": [],
+ "set": {
+  "theme": "light",
+  "seen": true,
+  "dtpl": 10,
+  "designs": [],
+  "bakDay": "2026-10-27",
+  "lastExp": "2026-10-27"
+ }
+}
